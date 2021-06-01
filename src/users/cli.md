@@ -45,6 +45,7 @@ To get help on subcommands, use `drycc help [subcommand]`:
     apps:logs          view aggregated application logs
     apps:run           run a command in an ephemeral app container
     apps:destroy       destroy an application
+    apps:transfer      transfer app ownership to another user
 
     Use `drycc help [command]` to learn more
 
